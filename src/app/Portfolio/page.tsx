@@ -27,7 +27,7 @@ export default function Page() {
                                 <p className="mt-6 text-xl leading-8 text-gray-700">     Bad Business AI is an AI app that generates bad business ideas at the click of a button. You can also make an account to store the generated bad ideas.</p>
                             </div>
                         </div>
-                        <div className="">
+                        <div>
                             <div className="ml-96">
                                 <Link href="https://sale-e-w-supabase-mz2q4lmt7-imartinez921.vercel.app/">
                                     <Image
